@@ -1,2 +1,1 @@
-# coding
-Get-Hired
+# Get-Hired
